@@ -1,17 +1,34 @@
-<h1 align="center">Hi there 👋, I am Nihal Sivapuram</h1>
-<h3 align="center">A passionate developer from India</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=HalienCoder&label=Profile%20views&color=0e75b6&style=flat" alt="HalienCoder" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Nihal+Sivapuram!;" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HalienCoder&label=Profile%20views&color=0e75b6&style=flat" alt="HalienCoder" /> </p>
+<div align="center">
+  
+🌱 I’m currently learning **Web development**
+  
+👯 I’m looking to collaborate on **Web dev projects**
 
-<!--
-**HalienCoder/HalienCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤔 I’m looking for help with **Backend Web Development**
+</div>
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning **Web development**
-- 👯 I’m looking to collaborate on **Web dev projects**
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
--->
+<div align="center"> 
+  <a href="mailto:nihaal.sivapuram@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/nihal-sivapuram-0b9054250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!-- <a href="https://github.com/HalienCoder" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a> -->
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,tailwind,python,c,java,mysql" />
+</div>
+</div>
 <h1 align="left">📈 Github Stats:</h1>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HalienCoder4&theme=dark&hide_border=true&border_radius=6&card_width=500" alt="GitHub Streak" /></a>
