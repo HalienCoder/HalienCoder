@@ -22,13 +22,11 @@
   <!-- <a href="https://github.com/HalienCoder" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a> -->
-<hr/>
- 
+ </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,tailwind,python,c,java,mysql" />
-</div>
 </div>
 <h1 align="left">📈 Github Stats:</h1>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HalienCoder4&theme=dark&hide_border=true&border_radius=6&card_width=500" alt="GitHub Streak" /></a>
