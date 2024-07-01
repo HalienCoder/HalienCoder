@@ -28,5 +28,11 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,tailwind,python,c,java,mysql" />
 </div>
-<h1 align="left">📈 Github Stats:</h1>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HalienCoder4&theme=dark&hide_border=true&border_radius=6&card_width=500" alt="GitHub Streak" /></a>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-fawn.vercel.app?user=HalienCoder&theme=dracula&border_radius=5" alt="GitHub Streak" /></a>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalienCoder&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
