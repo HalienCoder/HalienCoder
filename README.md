@@ -26,7 +26,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,redhat,python,html,css,javascript,figma,tailwind,c,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=linux,redhat,python,html,css,javascript,figma,tailwind,c,java,mysql,docker" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
